@@ -1,0 +1,243 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.ports{
+    margin-left: 5rem;
+}
+span{
+    color: rgba(255, 0, 0, 0.904);
+}
+.lists ul{
+    display: flex;
+    list-style-type: none;
+    padding-top: 0%;
+    margin-left: 23rem;
+    position: absolute;
+    top: 1rem;
+    gap: 3rem;
+
+}
+.btn{
+    margin-left: 10rem;
+    background-color: rgba(255, 0, 0, 0.904);
+    border-radius: 2rem;
+    padding: 0.5rem;
+}
+.btn:hover{
+    background-color: black;
+}
+a:hover{
+    color: rgba(255, 0, 0, 0.904);
+    cursor: pointer;
+}
+a:focus{
+    color: blue;
+}
+.hero{
+    padding-top: 8rem;
+    margin-left: 5rem;
+}
+.hero h2{
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
+.email{
+    border-radius: 10rem;
+    padding: 0.4rem;
+    width: 16.3rem;
+}
+.submit{
+    border-radius: 10rem;
+    padding: 0.4rem;
+    margin-right: 0.01rem;
+    background-color: rgba(255, 0, 0, 0.904);
+    position: absolute;
+    left: 18rem;
+}
+.img{
+    width: 30%;
+    height: 70vh;
+    position: absolute;
+    right: 16rem;
+    top: 3rem;
+
+}
+.imgs{
+    width: 30%;
+    height: 70vh;
+    padding-top: 17rem;
+}
+.about{
+    position: absolute;
+    left: 33rem;
+    top: 40rem;
+}
+.about h3{
+    font-size: 3rem;
+}
+.abouts{
+    width: 50%;
+}
+.talk{
+    background-color: rgba(255, 0, 0, 0.904);
+    padding: 1%;
+    border-radius: 2rem;
+}
+.talk:hover{
+    background-color: black;
+}
+h4{
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 3rem;
+    margin-right:10rem ;
+}
+.profile{
+    background-color: rgba(255, 0, 0, 0.904);
+    position: absolute;
+    left:13rem;
+}
+.service ul{
+    list-style-type: none;
+}
+.coll{
+    background-color: rgba(255, 0, 0, 0.904);
+    position: absolute;
+    left: 5rem;
+    bottom: 12.5rem;
+}
+.app{
+    background-color: rgba(255, 0, 0, 0.904);
+    position: absolute;
+    left: 5rem;
+    bottom: 12.5rem
+}
+.service ul{
+
+}
+.pa{
+    width: 30ch;
+}
+.par{
+    width: 30ch;
+    
+}
+.para{
+    width: 30ch;
+}
+.web{
+    margin-right: 57rem;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+.webs{
+   margin-right: 57rem;
+   font-size: 1.5rem;
+   margin-bottom: 1rem;
+
+}
+.webes{
+   margin-right: 57rem;
+   font-size: 1.5rem;
+   margin-bottom: 1rem;
+   
+   
+
+}
+.colls{
+    position: absolute;
+    right: -20rem;
+    top:80.5rem;
+}
+.apps{
+    position: absolute;
+    right: -45rem ;
+    top: 80.5rem
+}
+.reads{
+    background-color: rgba(255, 0, 0, 0.904);
+    padding: 1%;
+    border-radius: 2rem;
+    margin-left: 3rem;
+}
+.reads:hover{
+    background-color: black;
+}
+.read{
+    background-color: rgba(255, 0, 0, 0.904);
+    padding: 1%;
+    border-radius: 2rem;
+    margin-left: 3rem;
+}
+.read:hover{
+    background-color: black;
+}
+.rea{
+    background-color: rgba(255, 0, 0, 0.904);
+    padding: 1%;
+    border-radius: 2rem;
+    margin-left: 3rem;
+}
+.rea:hover{
+    background-color: black;
+}
+h5{
+    font-size: 2rem;
+    text-align: center;
+}
+.hire{
+    background-color: rgba(255, 0, 0, 0.904);
+    padding: 1%;
+    border-radius: 2rem;
+    margin-left: 33rem;
+}
+.hire:hover{
+    background-color: black;
+}
+h6{
+    font-size: 2rem;
+    text-align: center;
+}
+.tutor{
+    text-align: center;   
+}
+.below{
+    list-style-type: none;
+    display: flex;
+    margin-left: 28rem;
+    gap: 3rem;
+}
+.fb{
+    background-color: rgba(255, 0, 0, 0.904);
+    position: absolute;
+    left: 34.3rem;
+    }
+.twet{
+    background-color: rgba(255, 0, 0, 0.904);
+    width: 300%;
+}
+.ig{
+    background-color: rgba(255, 0, 0, 0.904);
+}
+@media screen and(min-width: 576px){
+
+}
+@media screen and (min-width: 768px) {
+    
+}
+@media screen and(min-width: 992px) {
+    
+}
+@media screen and(min-width:1200) {
+    
+}
+
